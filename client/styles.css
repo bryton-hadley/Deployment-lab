@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Chillax", sans-serif;
+    background-color: #273043;
+
+}
+
+header {
+    height: 75px;
+    background-color: #9197AE;
+    
+
+}
+
+#h1 {
+    color: #F02D3A;
+}
+
+#text {
+    color: #F02D3A;
+
+}
+
+#list {
+    color: #EFF6EE;
+}
+
