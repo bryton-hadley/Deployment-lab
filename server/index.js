@@ -29,6 +29,11 @@ app.use('/', express.static(path.join(__dirname, '../client/index.html')))
 
 app.use(express.static(path.join(__dirname, '../client')))
 
+try {
+    nonExistentFunction ();
+} catch (error) {
+    console.error(error.message)
+};
 
 
 
