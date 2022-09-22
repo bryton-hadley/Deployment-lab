@@ -25,4 +25,12 @@ body {
 #list {
     color: #EFF6EE;
 }
+#image-container {
+    filter: grayscale(90%);
 
+}
+
+/* #imageSection {
+
+    
+} */
